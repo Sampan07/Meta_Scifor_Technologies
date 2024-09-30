@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which language is primarily used for web development?",
+        "options": ["Python", "Java", "JavaScript", "C++"],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["O2", "H2O", "CO2", "HO"],
+        "answer":"H2O"
+    }
+]
