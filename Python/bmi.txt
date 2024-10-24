@@ -1,0 +1,4 @@
+Date: 2024-07-19 Friday 01:08:52, Height: 1.75 cm, Weight: 74 kg, BMI: 0.5714285714285714
+Date: 2024-07-19 Friday 01:09:05, Height: 1.75 cm, Weight: 74 kg, BMI: 0.5714285714285714
+Date: 2024-07-19 Friday 01:09:48, Height: 1.71 cm, Weight: 80 kg, BMI: 0.584795321637427
+Date: 2024-07-19 Friday 02:45:48, Height: 1.71 cm, Weight: 80 kg, BMI: 0.584795321637427

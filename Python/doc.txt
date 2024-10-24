@@ -1,0 +1,20 @@
+Priyanka wants to read a text file using python and she wants to print the content of that file in the terminal. But she is unable to specify the file name correctly. To help Priyanka write a program in python and show how to read the content of the text file and print it on the screen using python. Name of the text file: aboutPython.txt Content: Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. It's high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.  .  Hint:  Create a text file aboutPython.txt  Copy the given content in that file  Using python read the content of the file.  Use the concept of file handling.
+
+
+
+Himanshi has a text file and she wants to check whether that file contains any numerical value. So to help Himanshi write a python program that can check whether the text file includes any numerical value or not. As text files contain so many lines, so print the line number that has numerical values
+
+
+
+Shubham had created a BMI calculator to check his health condition daily. But he is not able to record the values. He wants to see how his BMI is changing. So he decided to connect his BMI program with a text file using the concept of file handling. Now, when he uses his BMI program, his height, weight, BMI, and date get added to a text file "bmi.txt". Create a program that can do the same thing for you.
+
+Arvind has a huge text file and he wants to put a serial number at the beginning of each line. Doing this task manually can take a lot of time. He is not aware of python file handling. Write a python program that can put a serial number in front of each line in any specified text file.
+
+
+Arunima created a text file on programming where she wrote the word language incorrectly many times. Now she wants to replace the incorrect word with the correct word. Doing it manually can take a lot of time plus she can miss out few words at the end. To help Arunima to replace the words write a python program. Use the concept of file handling and make changes in the text file.
+
+
+Ayman wants to modify one of his text files. In his text file, he wants to start a new line whenever he encounters a number followed by a period(.). So he decides to do the same with the help of the python program. Write a program for Ayman.
+
+
+Nidhi has a bad habit of repeating the same word while typing. She wants a program that can remove duplicate phrases from paragraphs written by her. To help Nidhi write a python program that can connect with a text file and remove repeating words.

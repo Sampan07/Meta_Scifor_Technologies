@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}Projects{% endblock %}
+
+{% block content %}
+<section>
+    <h2>My Projects</h2>
+    <div class="projects-grid">
+        <div class="project-card">
+            <img src="{{ url_for('static', filename='img/project1.jpg') }}" alt="Project 1">
+            <h3>Project 1</h3>
+            <p>Description of the project.</p>
+        </div>
+
+    </div>
+</section>
+{% endblock %}
